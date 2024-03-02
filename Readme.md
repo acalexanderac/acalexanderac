@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Alexander 👋<br><br>## 🚀 About Me<br>I'm a full-stack developer who is passionate about writing code while having fun in the process.<br><br>## 🛠 Skills<br>Typescript, NestJS, NodeJS, React, NEXTJS, Tailwind...<br><br>## 🌱 I’m currently learning <br>Kubernetes & Jenkins<br><br>## 💼 I’m currently working on<br>A secret app using NestJS and TypeORM.<br><br>## 📫 How to reach me<br>You can reach me at [acalexander774@gmail.com](mailto:acalexander774@gmail.com), or on [LinkedIn](https://www.linkedin.com/in/calexanderac/).<br>
+# Hello, I'm Alexander 👋<br><br> 🚀 About Me<br>I'm a full-stack developer who is passionate about writing code while having fun in the process.<br><br> 🛠 Skills<br>Typescript, NestJS, NodeJS, React, NEXTJS, Tailwind...<br><br> 🌱 I’m currently learning <br>Kubernetes & Jenkins<br><br>## 💼 I’m currently working on<br>A secret app using NestJS and TypeORM.<br><br>## 📫 How to reach me<br>You can reach me at [acalexander774@gmail.com](mailto:acalexander774@gmail.com), or on [LinkedIn](https://www.linkedin.com/in/calexanderac/).<br>
 
 
 ## 🌐 Socials:
