@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E8388,50:38BDF8,100:7C3AED&height=180&section=header&text=Christian%20Alexander%20Arias&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&color=38BDF8&center=true&width=600&lines=Semi-Senior+Software+Engineer;Full-Stack+%2B+Distributed+Systems;Building+at+Walmart+CAM+(via+Babel+Group);Security-Minded+Development" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&color=38BDF8&center=true&width=600&lines=Senior+Software+Engineer;Full-Stack+%2B+Distributed+Systems;Building+at+Walmart+CAM+(via+Babel+Group);Security-Minded+Development" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ### About
 
-Semi-Senior Software Engineer building full-stack systems at **Walmart CAM** via Babel Group. Background in distributed architecture, event-driven pipelines, and secure development — from cutting database load by 95% with a caching layer to shipping multi-language SDKs that halved client onboarding time.
+Senior Software Engineer building full-stack systems at **Walmart CAM** via Babel Group. Background in distributed architecture, event-driven pipelines, and secure development — from cutting database load by 95% with a caching layer to shipping multi-language SDKs that halved client onboarding time.
 
 📍 Guatemala City, Guatemala &nbsp;|&nbsp; 🗣️ Spanish (Native) · English (C1) · Mandarin (Learning)
 
@@ -61,7 +61,7 @@ Semi-Senior Software Engineer building full-stack systems at **Walmart CAM** via
 
 ### Experience
 
-**Semi-Senior Software Engineer** &nbsp;·&nbsp; ![Walmart CAM](https://img.shields.io/badge/Walmart_CAM-via_Babel_Group-0E8388?style=flat-square) &nbsp; *Apr 2026 – Present*
+**Senior Software Engineer** &nbsp;·&nbsp; ![Walmart CAM](https://img.shields.io/badge/Walmart_CAM-via_Babel_Group-0E8388?style=flat-square) &nbsp; *Apr 2026 – Present*
 - Leading **MotosGT**, an internal platform for motorcycle inventory and customer-relations data within the WNCP ecosystem
 - Full-stack development with NestJS, Next.js, TypeScript, and SQL stored procedures across 4 concurrent projects
 - Enforcing an enterprise security pipeline — SonarQube, Snyk, and Apiiro (ASPM)
