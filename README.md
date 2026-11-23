@@ -50,7 +50,6 @@ Previously led **MotosGT** for Walmart Guatemala (**4 apps, 78 endpoints on GCP*
 | **BatteryHub** *(5.8k★)* | [#4096](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/4096) `Merged` | `C++ · Win32 HID` | Added USB HID `ReadCIDMID` (`0x10`) & Pulsar model mapping for 8K Gen.2 dongles |
 | **subtle** | [#1](https://github.com/0xpratzyy/subtle/pull/1) `Merged` | `TypeScript` | Full Spanish support for numbers, highlights, page breaks, and filler detection |
 | **pingou** | [#65](https://github.com/somospye/pingou/pull/65) `Merged` | `TypeScript` | Hardened censor service against word variations and bypass attempts |
-| **PostHog** | [#22635](https://github.com/PostHog/posthog.com/pull/22635) `Open` | `TypeScript · React` | Built interactive *Spot the Hog* mini-game for `sparks-joy` |
 
 ---
 
