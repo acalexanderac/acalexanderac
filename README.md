@@ -1,22 +1,22 @@
 <div align="center">
 
-# ALEXANDER ARIAS
+# ALEXANDER ARIAS `✳`
 ### Senior Software Engineer · Distributed Systems, AppSec & AI-Native Delivery
 
-`Babel × Banco Popular CR` · `M.Sc. Information Security` · `Guatemala City (UTC-6)`
+`Babel × Banco Popular CR` · `M.Sc. Information Security` · `Guatemala City · 14.6349° N, 90.5069° W · UTC-6`
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8412C?style=for-the-badge&labelColor=10241C)](https://www.alexanderac.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-10241C?style=for-the-badge&logo=linkedin&logoColor=F1ECDD)](https://www.linkedin.com/in/calexanderac/)
-[![Email](https://img.shields.io/badge/hello@alexanderac.dev-10241C?style=for-the-badge&logo=gmail&logoColor=F1ECDD)](mailto:hello@alexanderac.dev)
-[![CLI](https://img.shields.io/badge/npx%20alexanderac-10241C?style=for-the-badge&logo=npm&logoColor=E8412C)](https://www.npmjs.com/package/alexanderac)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D24?style=for-the-badge&labelColor=111111&logoColor=111111)](https://www.alexanderac.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E2E1DC)](https://www.linkedin.com/in/calexanderac/)
+[![Email](https://img.shields.io/badge/hello@alexanderac.dev-111111?style=for-the-badge&logo=gmail&logoColor=E2E1DC)](mailto:hello@alexanderac.dev)
+[![CLI](https://img.shields.io/badge/npx%20alexanderac-111111?style=for-the-badge&logo=npm&logoColor=FF4D24)](https://www.npmjs.com/package/alexanderac)
 
 </div>
 
 ---
 
-### What I Build
+### `[01]` What I Build
 
 Enterprise platforms built for clarity, security, and load — currently owning **.NET 10** microservices and **RabbitMQ** contracts in Banco Popular de Costa Rica's core banking monolith migration (**SICUVAL**, **90%** test coverage) while leading the team's shift to spec-driven AI-assisted engineering.
 
@@ -30,7 +30,7 @@ Previously led **MotosGT** for Walmart Guatemala (**4 apps, 78 endpoints on GCP*
 
 ---
 
-### Selected Work
+### `[02]` Selected Work
 
 | | Project | Scope & Impact | Year |
 | --- | --- | --- | --- |
@@ -43,17 +43,22 @@ Previously led **MotosGT** for Walmart Guatemala (**4 apps, 78 endpoints on GCP*
 
 ---
 
-### Open Source Contributions
+### `[03]` Open Source Contributions · `05 Merged · 03 Open`
 
 | Project | PR | Stack | Contribution |
 | --- | --- | --- | --- |
-| **BatteryHub** *(5.8k★)* | [#4096](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/4096) `Merged` | `C++ · Win32 HID` | Added USB HID `ReadCIDMID` (`0x10`) & Pulsar model mapping for 8K Gen.2 dongles |
-| **subtle** | [#1](https://github.com/0xpratzyy/subtle/pull/1) `Merged` | `TypeScript` | Full Spanish support for numbers, highlights, page breaks, and filler detection |
+| **HaloBattery** | [#565](https://github.com/HeyOkay/HaloBattery/pull/565) `Merged` | `Python · USB HID` | Added Pulsar 8K Dongle Gen.2 model identification, protocol docs, and unit tests |
+| **BatteryHub** | [#4096](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/4096) `Merged` | `C++ · Win32 HID` | Added USB HID `ReadCIDMID` (`0x10`) & Pulsar model mapping for 8K Gen.2 dongles |
+| **subtle** | [#2](https://github.com/0xpratzyy/subtle/pull/2) `Merged` | `Python · Windows` | Fixed Windows UTF-8 file I/O, shell-safe `npm` execution, and Git Bash compositing |
+| **subtle** | [#1](https://github.com/0xpratzyy/subtle/pull/1) `Merged` | `Python` | Full Spanish support for numbers, highlights, page breaks, and filler detection |
 | **pingou** | [#65](https://github.com/somospye/pingou/pull/65) `Merged` | `TypeScript` | Hardened censor service against word variations and bypass attempts |
+| **t3code** | [#42498](https://github.com/pingdotgg/t3code/pull/42498) `Open` | `TypeScript` | Fixed Antigravity ACP subagent idle-state lifecycle tracking with unit tests |
+| **synara** | [#2316](https://github.com/Emanuele-web04/synara/pull/2316) `Open` | `TypeScript` | Added configurable cap for auto-generated thread title length across providers & UI |
+| **kokon** | [#63](https://github.com/GabrieleLozupone/kokon/pull/63) `Open` | `i18n · JSON` | Completed Latin American Spanish localization review of the UI |
 
 ---
 
-### Stack Guide
+### `[04]` Stack & Toolkit
 
 | | Instruments |
 | --- | --- |
@@ -71,7 +76,7 @@ Previously led **MotosGT** for Walmart Guatemala (**4 apps, 78 endpoints on GCP*
 
 ---
 
-### The Path
+### `[05]` Chronology
 
 | | Role | Period |
 | --- | --- | --- |
@@ -86,9 +91,9 @@ Previously led **MotosGT** for Walmart Guatemala (**4 apps, 78 endpoints on GCP*
 
 ---
 
-### Contact Line
+### `[06]` Contact
 
-Open for talks, collaboration, and more — architecture, systems, or coffee.
+Open for architecture, distributed systems, talks, and collaboration.
 
 **[hello@alexanderac.dev](mailto:hello@alexanderac.dev)** · **[alexanderac.dev](https://www.alexanderac.dev/)** · **[LinkedIn](https://www.linkedin.com/in/calexanderac/)** · `$ npx alexanderac`
 
@@ -96,11 +101,11 @@ Open for talks, collaboration, and more — architecture, systems, or coffee.
 
 <div align="center">
 
-<img height="148" src="https://github-readme-stats.vercel.app/api?username=acalexanderac&show_icons=true&hide_border=true&bg_color=10241C&title_color=F1ECDD&icon_color=E8412C&text_color=D8D2C2&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acalexanderac&layout=compact&langs_count=6&hide_border=true&bg_color=10241C&title_color=F1ECDD&text_color=D8D2C2" alt="Top languages" />
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=acalexanderac&show_icons=true&hide_border=true&bg_color=111111&title_color=E2E1DC&icon_color=FF4D24&text_color=C9C7C0&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acalexanderac&layout=compact&langs_count=6&hide_border=true&bg_color=111111&title_color=E2E1DC&text_color=C9C7C0" alt="Top languages" />
 
 <br/><br/>
 
-`GUATEMALA CITY · UTC-6 · 2026`
+`GUATEMALA CITY · 14.6349° N, 90.5069° W · UTC-6 · 2026`
 
 </div>
